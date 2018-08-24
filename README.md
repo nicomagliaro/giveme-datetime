@@ -34,7 +34,7 @@ C:\Users\administrator>C:\Program Files (x86)\Python37-32\Scripts\virtualenv.exe
 Ok, now you have an empty virtualenv environment.
 
 So, to use this enviroment you have to activate it. It is simple:
-
+--
 ```
 C:\Users\administrator>virtualenv\virtual_1\Scripts\activate
 ```
