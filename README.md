@@ -3,8 +3,6 @@
 Dependencies:
   - Git
   - Python3.4 or higher
-  
-Note: "Install pythpn/pip"
 
 Download Python installer from 
 ```
