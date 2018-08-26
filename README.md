@@ -38,7 +38,6 @@ Then create your virtualenv:
 C:\users\administrator\appdata\local\programs\python\python37-32\Scripts\virtualenv.exe virtualenv\webapp
 ```
 Ok, now you have an empty virtualenv environment.
-
 So, to use this enviroment you have to activate it. It is simple:
 
 ```
